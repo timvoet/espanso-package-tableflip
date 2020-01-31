@@ -1,0 +1,10 @@
+# Simple package
+
+name: tableflip-package
+parent: default
+
+matches:
+  - trigger: ":tableflip"
+    replace: "(╯°□°）╯︵ ┻━┻"
+  - trigger: ":fliptable"
+    replace: "(╯°□°）╯︵ ┻━┻"
